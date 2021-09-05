@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Calculation_Test.cpp
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Calculations.cpp(14,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\UnitTest\Calculation_Test.cpp(49,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+     Creating library C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\Debug\UnitTest.lib and object C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\Debug\UnitTest.dll
